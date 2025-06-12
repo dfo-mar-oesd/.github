@@ -45,7 +45,7 @@ R workshops developed by and for DFO Atlantic Region scientists, promoting repro
 
 Our Ocean and Ecosystem Sciences Division (OESD) benefits from a dedicated team of scientists and developers who lead our open-source initiatives:
 
-### Lead Developers & Scientists
+### Data Management Team
 
 Diana Cardoso [@oceanscience](https://github.com/oceanscience) - Divisional Data Management Lead
 
@@ -69,13 +69,13 @@ Blair Greenan [@blairgreenan](https://github.com/blaigreenan)  - Ocean climate r
 
 Chris Gordon [@cgrdn](https://github.com/cgrdn) - ARGO QC and operations
 
-Clark Richards [@clarkrichards](https://github.com/clarkrichards)
+Clark Richards [@clarkrichards](https://github.com/clarkrichards) - Physical oceanographer, glider & ARGO programs
 
 Melanie Hardy [@mhardy47](https://github.com/mhardy47)
 
 Catalina Gomez [@gomezcatalina](https://github.com/gomezcatalina)
 
-
+*and lots more contributers to be added*
 
 
 These contributors form the backbone of our development efforts, ensuring our tools and data products meet the highest standards for scientific research and operational monitoring.
