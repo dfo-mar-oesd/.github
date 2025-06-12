@@ -47,40 +47,40 @@ Our Ocean and Ecosystem Sciences Division (OESD) benefits from a dedicated team 
 
 ### Lead Developers & Scientists
 
-@clayton33 - 
+Diana Cardoso [@oceanscience](https://github.com/oceanscience) - Divisional Data Management Lead
 
-@eogrady21 -
+Chantelle Layton [@clayton33](https://github.com/clayton33)- 
 
-@oceanscience - 
+Emily O'Grady [@eogrady21](https://github.com/eogrady21) - Data management and technical support for long term monitoring programs 
+
+
 
 ### Core OESD Contributors
 
-@lindsaybeazley (Lindsay Beazley) - AZMP Operational Lead
+Lindsay Beazley [@lindsaybeazley](https://github.com/lindsaybeazley)  - AZMP Operational Lead
 
-@kevinsorochan (Kevin Sorochan) - Plankton ecology and VPR data processing
+Kevin Sorochan [@kevinsorochan](https://github.com/kevinsorochan) - Plankton ecology and VPR data processing
 
-@claysa (Stephanie Clay) - 
+Stephanie Clay [@claysa](https://github.com/claysa) - Remote sensing and AZOMP technical support
 
-@casaultb (Benoit Casault) - 
+Benoit Casault [@casaultb](https://github.com/casaultb) - AZMP reporting
 
-@blairgreenan (Blair Greenan) - Ocean climate research 
+Blair Greenan [@blairgreenan](https://github.com/blaigreenan)  - Ocean climate research and ARGO program
 
-@chrisgordon
+Chris Gordon [@cgrdn](https://github.com/cgrdn) - ARGO QC and operations
 
-@clarkrichards
+Clark Richards [@clarkrichards](https://github.com/clarkrichards)
 
-@kristenwilson
-
-@melaniehardy
+Melanie Hardy [@mhardy47](https://github.com/mhardy47)
 
 
-These contributors form the backbone of our open-source development efforts, ensuring our tools and data products meet the highest standards for scientific research and operational monitoring.
+These contributors form the backbone of our development efforts, ensuring our tools and data products meet the highest standards for scientific research and operational monitoring.
 
 ### Previous contributers:
 
-@dempseydanielle 
+Danielle Dempsey [@dempseydanielle](https://github.com/dempseydanielle) - marindicators 
 
-@paleolimbot (Dewey Dunnington) 
+Dewey Dunnington [@paleolimbot](https://github.com/paleolimbot) - ggspatial 
 
 ## 🎯 Our Mission
 
@@ -105,13 +105,6 @@ Ecosystem Indicators: Tools for calculating and visualizing marine ecosystem hea
 
 Remote Sensing Products: Ocean color, SST, and other satellite-derived data products
 
-### Software & Packages
-
-R Packages: Specialized tools for marine data analysis
-
-Python Libraries: Data processing and visualization tools
-
-Web Applications: Interactive dashboards for data exploration
 
 
 ## 📚 Resources
@@ -143,6 +136,8 @@ Please see individual repository contribution guidelines for specific projects.
 For questions about our GitHub organizations or potential collaborations:
 
 General inquiries: *generic OESD data email*
+
+Data Requests: *add email*
 
 Technical issues: Open an issue in the relevant repository
 
