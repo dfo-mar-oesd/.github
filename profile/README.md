@@ -121,7 +121,7 @@ Remote Sensing Products: Ocean color, SST, and other satellite-derived data prod
 
 [Open Government Licence - Canada](https://open.canada.ca/en/open-government-licence-canada)
 
-[DFO Science and research by topic](https://www.dfo-mpo.gc.ca/science/data-donnees/gts-smt/index-eng.html](https://www.dfo-mpo.gc.ca/science/data-donnees/index-eng.html)
+[DFO Science and research by topic](https://www.dfo-mpo.gc.ca/science/data-donnees/index-eng.html)
 
 ### data sources
 
@@ -141,7 +141,7 @@ Remote Sensing Products: Ocean color, SST, and other satellite-derived data prod
 
 [The Canadian Integrated Ocean Observing System (CIOOS)](https://www.cioos.ca/)
 
-[displays detections of North Atlantic right whales in eastern Canadian waters.](https://www.dfo-mpo.gc.ca/species-especes/mammals-mammiferes/narightwhale-baleinenoirean/alert-alerte/index-eng.html)
+[Displays detections of North Atlantic right whales in eastern Canadian waters.](https://www.dfo-mpo.gc.ca/species-especes/mammals-mammiferes/narightwhale-baleinenoirean/alert-alerte/index-eng.html)
 
 
 ## 👥 Contributing
