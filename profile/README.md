@@ -2,11 +2,11 @@
 
 🌊 Welcome to DFO Maritimes Region Ocean Ecosystem Science Division
 
-This is the central hub for GitHub organizations supporting scientific research, data management, and ecosystem monitoring in Canada's Maritimes Region. Our work spans oceanographic research, marine ecosystem assessment, and the development of tools for sustainable ocean management.
+This is the central hub for GitHub organizations and pages supporting scientific research, data management, and ecosystem monitoring in Canada's Maritimes Region. Our work spans oceanographic research, marine ecosystem assessment, and the development of tools for sustainable ocean management.
 
 ## 🏢 Our GitHub Organizations
 
-### Core Research Groups
+### Research Groups
 
 🔬 [BIO-RSG (Bedford Institute of Oceanography - Remote Sensing Group)](https://github.com/BIO-RSG)
 
@@ -119,9 +119,30 @@ Remote Sensing Products: Ocean color, SST, and other satellite-derived data prod
 
 [Canada GitHub](https://github.com/canada-ca/template-gabarit) - Template for open source development in the public service
 
+[Open Government Licence - Canada](https://open.canada.ca/en/open-government-licence-canada)
+
+[DFO Science and research by topic](https://www.dfo-mpo.gc.ca/science/data-donnees/gts-smt/index-eng.html](https://www.dfo-mpo.gc.ca/science/data-donnees/index-eng.html)
+
+### data sources
+
 [Open Data](https://open.canada.ca/en) 
 
 [Open Science Platform](https://osdp-psdo.canada.ca/dp/en)
+
+[Ocean Biodiversity Information System](https://www.dfo-mpo.gc.ca/science/data-donnees/obis/index-eng.html)
+
+[Biological and chemical marine data: BioChem database](https://www.dfo-mpo.gc.ca/science/data-donnees/biochem/index-eng.html)
+
+[Argo Canada](https://www.meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/argo/index-eng.html)
+
+[Ocean Carbon and Acidification Data System (OCADS)](https://www.ncei.noaa.gov/products/ocean-carbon-acidification-data-system)
+
+[CCHDO (CLIVAR and Carbon Hydrographic Data Office) ](https://cchdo.ucsd.edu/)
+
+[The Canadian Integrated Ocean Observing System (CIOOS)](https://www.cioos.ca/)
+
+[displays detections of North Atlantic right whales in eastern Canadian waters.](https://www.dfo-mpo.gc.ca/species-especes/mammals-mammiferes/narightwhale-baleinenoirean/alert-alerte/index-eng.html)
+
 
 ## 👥 Contributing
 
@@ -141,9 +162,9 @@ Please see individual repository contribution guidelines for specific projects.
 
 For questions about our GitHub organizations or potential collaborations:
 
-General inquiries: *generic OESD data email*
+General inquiries: DFO.OESDDataRequest-DSEMDemandededonnes.MPO@dfo-mpo.gc.ca
 
-Data Requests: *add email*
+Data Requests: DFO.OESDDataRequest-DSEMDemandededonnes.MPO@dfo-mpo.gc.ca , DFO.BIODataServices-BIOServicesdeDonnees.MPO@dfo-mpo.gc.ca
 
 Technical issues: Open an issue in the relevant repository
 
