@@ -49,7 +49,7 @@ Our Ocean and Ecosystem Sciences Division (OESD) benefits from a dedicated team 
 
 Diana Cardoso [@oceanscience](https://github.com/oceanscience) - Divisional Data Management Lead
 
-Chantelle Layton [@clayton33](https://github.com/clayton33)- 
+Chantelle Layton [@clayton33](https://github.com/clayton33)- Physical oceanographer, AZMP reporting and glider data management
 
 Emily O'Grady [@eogrady21](https://github.com/eogrady21) - Data management and technical support for long term monitoring programs 
 
