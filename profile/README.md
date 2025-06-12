@@ -41,7 +41,7 @@ Long-term oceanographic and biological monitoring data, time series analysis, an
 
 R workshops developed by and for DFO Atlantic Region scientists, promoting reproducible research and code sharing.
 
-[dfo-mar-odis](https://github.com/dfo-mar-odis)
+🤝 [dfo-mar-odis](https://github.com/dfo-mar-odis)
 
 GitHub organization for the Maritimes data shop ODIS (Ocean Data Information Systems)
 
@@ -127,7 +127,7 @@ Remote Sensing Products: Ocean color, SST, and other satellite-derived data prod
 
 [DFO Science and research by topic](https://www.dfo-mpo.gc.ca/science/data-donnees/index-eng.html)
 
-### data sources
+### Data Sources
 
 [Open Data](https://open.canada.ca/en) 
 
@@ -166,11 +166,17 @@ Please see individual repository contribution guidelines for specific projects.
 
 For questions about our GitHub organizations or potential collaborations:
 
-General inquiries: DFO.OESDDataRequest-DSEMDemandededonnes.MPO@dfo-mpo.gc.ca
+**General inquiries:**
 
-Data Requests: DFO.OESDDataRequest-DSEMDemandededonnes.MPO@dfo-mpo.gc.ca , DFO.BIODataServices-BIOServicesdeDonnees.MPO@dfo-mpo.gc.ca
+  DFO.OESDDataRequest-DSEMDemandededonnes.MPO@dfo-mpo.gc.ca
 
-Technical issues: Open an issue in the relevant repository
+**Data Requests:**
+
+  DFO.OESDDataRequest-DSEMDemandededonnes.MPO@dfo-mpo.gc.ca 
+    
+  DFO.BIODataServices-BIOServicesdeDonnees.MPO@dfo-mpo.gc.ca
+
+**Technical issues:** Open an issue in the relevant repository
 
 
 
