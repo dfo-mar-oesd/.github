@@ -57,23 +57,25 @@ Emily O'Grady [@eogrady21](https://github.com/eogrady21) - Data management and t
 
 ### Core OESD Contributors
 
-Lindsay Beazley [@lindsaybeazley](https://github.com/lindsaybeazley)  - AZMP Operational Lead
-
-Kevin Sorochan [@kevinsorochan](https://github.com/kevinsorochan) - Plankton ecology and VPR data processing
-
-Stephanie Clay [@claysa](https://github.com/claysa) - Remote sensing and AZOMP technical support
+Andrew Cogswell [@atcogswell](https://github.com/atcogswell) - AZMP Program Management
 
 Benoit Casault [@casaultb](https://github.com/casaultb) - AZMP reporting
 
-Blair Greenan [@blairgreenan](https://github.com/blaigreenan)  - Ocean climate research and ARGO program
+Blair Greenan [@blairgreenan](https://github.com/blairgreenan)  - Ocean climate research and ARGO program
+
+Catherine Johnson [@cathjohnson](https://github.com/cathjohnson) - Biological oceanographer and zooplankton ecologist
 
 Chris Gordon [@cgrdn](https://github.com/cgrdn) - ARGO QC and operations
 
 Clark Richards [@clarkrichards](https://github.com/clarkrichards) - Physical oceanographer, glider & ARGO programs
 
-Melanie Hardy [@mhardy47](https://github.com/mhardy47)
+Kevin Sorochan [@kevinsorochan](https://github.com/kevinsorochan) - Plankton ecology and VPR data processing
 
-Catalina Gomez [@gomezcatalina](https://github.com/gomezcatalina)
+Lindsay Beazley [@lindsaybeazley](https://github.com/lindsaybeazley)  - AZMP Operational Lead
+
+Pamela Emery [@PamEmery](https://github.com/PamEmery) - Team Whale
+
+Stephanie Clay [@claysa](https://github.com/claysa) - Remote sensing and AZOMP technical support
 
 *and lots more contributers to be added*
 
