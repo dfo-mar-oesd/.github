@@ -73,6 +73,10 @@ Clark Richards [@clarkrichards](https://github.com/clarkrichards)
 
 Melanie Hardy [@mhardy47](https://github.com/mhardy47)
 
+Catalina Gomez [@gomezcatalina](https://github.com/gomezcatalina)
+
+
+
 
 These contributors form the backbone of our development efforts, ensuring our tools and data products meet the highest standards for scientific research and operational monitoring.
 
