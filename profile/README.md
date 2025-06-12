@@ -41,6 +41,10 @@ Long-term oceanographic and biological monitoring data, time series analysis, an
 
 R workshops developed by and for DFO Atlantic Region scientists, promoting reproducible research and code sharing.
 
+[dfo-mar-odis](https://github.com/dfo-mar-odis)
+
+GitHub organization for the Maritimes data shop ODIS (Ocean Data Information Systems)
+
 ## 👥 Key Contributors
 
 Our Ocean and Ecosystem Sciences Division (OESD) benefits from a dedicated team of scientists and developers who lead our open-source initiatives:
