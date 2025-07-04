@@ -1,8 +1,8 @@
-# Maritimes Region Ocean Ecosystem Science Division - GitHub Organizations
+# Fisheries and Oceans Canada (DFO) Maritimes Region Ocean Ecosystem Science Division (OESD) - GitHub Organizations
 
 🌊 Welcome to DFO Maritimes Region Ocean Ecosystem Science Division
 
-This is the central hub for GitHub organizations and pages supporting scientific research, data management, and ecosystem monitoring in Canada's Maritimes Region. Our work spans oceanographic research, marine ecosystem assessment, and the development of tools for sustainable ocean management.
+This is the central hub for GitHub organizations and pages supporting scientific research, data management, and ecosystem monitoring in Fisheries and Oceans Canada Maritimes Region Ocean Ecosystem Science Division. Our work spans oceanographic research, marine ecosystem assessment, and the development of tools for sustainable ocean management.
 
 ## 🏢 Our GitHub Organizations
 
@@ -28,8 +28,7 @@ Autonomous ocean glider operations, data processing pipelines, and tools for rea
 
 📊 [DFO-AZOMP (Atlantic Zone Off-shelf Monitoring Program)](https://github.com/DFO-AZOMP)
 
-
-Off-shelf oceanographic monitoring data management, analysis tools, and reporting workflows for deep-water Atlantic ecosystems.
+Long-term Off-shelf oceanographic and biological monitoring data management, analysis tools, and reporting workflows for deep-water Northwest Atlantic ecosystems.
 
 📈 [dfo-mar-azmp (Atlantic Zone Monitoring Program)](https://github.com/dfo-mar-azmp)
 
