@@ -91,31 +91,6 @@ Danielle Dempsey [@dempseydanielle](https://github.com/dempseydanielle) - marind
 
 Dewey Dunnington [@paleolimbot](https://github.com/paleolimbot) - ggspatial 
 
-## 🎯 Our Mission
-
-We develop and maintain open-source tools and datasets to:
-
-Monitor and understand changes in Atlantic Canadian marine ecosystems
-
-Support evidence-based fisheries and ocean management decisions
-
-Advance oceanographic and ecological research methodologies
-
-Foster collaboration and reproducible science practices
-
-
-## 🛠️ Key Projects & Tools
-
-### Data & Analysis
-
-Oceanographic Data Processing: Automated workflows for CTD, glider, and mooring data
-
-Ecosystem Indicators: Tools for calculating and visualizing marine ecosystem health metrics
-
-Remote Sensing Products: Ocean color, SST, and other satellite-derived data products
-
-
-
 ## 📚 Resources
 
 [Bedford Institute of Oceanography](https://www.bio.gc.ca/index-en.php) - Canada's largest ocean research facility
@@ -146,20 +121,6 @@ Remote Sensing Products: Ocean color, SST, and other satellite-derived data prod
 
 [Displays detections of North Atlantic right whales in eastern Canadian waters.](https://www.dfo-mpo.gc.ca/species-especes/mammals-mammiferes/narightwhale-baleinenoirean/alert-alerte/index-eng.html)
 
-
-## 👥 Contributing
-
-We welcome contributions from:
-
-DFO scientists and researchers
-
-Academic collaborators
-
-Ocean technology partners
-
-Open-source community members
-
-Please see individual repository contribution guidelines for specific projects.
 
 ## 📧 Contact
 
