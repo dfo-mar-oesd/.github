@@ -36,6 +36,8 @@ Long-term oceanographic and biological monitoring data, time series analysis, an
 
 🧪 [AZMP-BBMP](https://github.com/AZMP-BBMP)
 
+*Upcoming* Operational tools for the Bedford Basin Monitoring Program
+
 ### Regional Collaboration
 
 🤝 [AtlanticR](https://github.com/AtlanticR)
@@ -48,7 +50,7 @@ GitHub organization for the Maritimes data shop ODIS (Ocean Data Information Sys
 
 ## 👥 Key Contributors
 
-Our Ocean and Ecosystem Sciences Division (OESD) benefits from a dedicated team of scientists and developers who lead our open-source initiatives:
+Our Ocean and Ecosystem Sciences Division (OESD) benefits from a dedicated team of scientists and developers:
 
 ### Data Management Team
 
