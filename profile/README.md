@@ -72,7 +72,7 @@ Blair Greenan [@blairgreenan](https://github.com/blairgreenan)  - Ocean climate 
 
 Catherine Johnson [@cathjohnson](https://github.com/cathjohnson) - Biological oceanographer and zooplankton ecologist
 
-Chris Gordon [@cgrdn](https://github.com/cgrdn) - ARGO QC and operations
+Chris Gordon [@cgrdn](https://github.com/cgrdn) - Argo QC and operations
 
 Clark Richards [@clarkrichards](https://github.com/clarkrichards) - Physical oceanographer, glider & ARGO programs
 
