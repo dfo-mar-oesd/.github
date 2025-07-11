@@ -38,6 +38,10 @@ Long-term oceanographic and biological monitoring data, time series analysis, an
 
 *Upcoming* Operational tools for the Bedford Basin Monitoring Program
 
+📈 [Argo Canada](https://github.com/ArgoCanada/)
+
+Code and tools developed and used for the Canadian contribution to the global Argo program (http://www.argo.net/) through Fisheries and Oceans Canada
+
 ### Regional Collaboration
 
 🤝 [AtlanticR](https://github.com/AtlanticR)
