@@ -20,6 +20,10 @@ Implementation of ecosystem approaches to marine management, including ecosystem
 
 Tools and workflows for Video Plankton Recorder data processing, analysis, and visualization to support plankton ecology research.
 
+📊 [DFO MODCOM](https://gitlab.com/dfo_modcom)
+
+ Shared codes and tools developed by the MODCOM members.
+
 ### Monitoring Programs
 
 🌊 [DFOglider (Ocean Glider Program)](https://github.com/DFOglider)
@@ -129,6 +133,11 @@ Dewey Dunnington [@paleolimbot](https://github.com/paleolimbot) - ggspatial
 
 [Displays detections of North Atlantic right whales in eastern Canadian waters.](https://www.dfo-mpo.gc.ca/species-especes/mammals-mammiferes/narightwhale-baleinenoirean/alert-alerte/index-eng.html)
 
+[World Ocean Database](https://www.ncei.noaa.gov/products/world-ocean-database)
+
+[NOAA’s Deep Sea Coral Research and Technology Program website](https://deepseacoraldata.noaa.gov/)
+
+[the Continuous Plankton Recorder (CPR) Survey ](https://www.cprsurvey.org/)
 
 ## 📧 Contact
 
